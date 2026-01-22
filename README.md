@@ -2,9 +2,6 @@
 
 A real-time video rendering engine that converts webcam feed (or video files) into ASCII art directly in the terminal window. Built with Python, OpenCV, and NumPy.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Place+Your+Screenshot+Here)
-*(Don't forget to replace this link with a real screenshot of your terminal!)*
-
 ## 🚀 How It Works
 
 The program processes video frames using a computer vision pipeline:
@@ -28,7 +25,7 @@ The program processes video frames using a computer vision pipeline:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ascii-video-player.git](https://github.com/YOUR_USERNAME/ascii-video-player.git)
+    git clone [https://github.com/shimorinakatensei-afk/asciicv](git clone https://github.com/shimorinakatensei-afk/asciicv.git)
     cd ascii-video-player
     ```
 
